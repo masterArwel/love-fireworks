@@ -1,7 +1,7 @@
 const imgList = {
-	bg:require('../img/bg2.jpg'),
-	musicon:require('../img/musicon.png'),
-	musicoff:require('../img/musicoff.png'),
+	bg:require('../love-fireworks/src/img/bg2.jpg'),
+	musicon:require('../love-fireworks/src/img/musicon.png'),
+	musicoff:require('../love-fireworks/src/img/musicoff.png'),
 }
 export default imgList
 
